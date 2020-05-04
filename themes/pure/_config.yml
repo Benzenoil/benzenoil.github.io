@@ -127,8 +127,8 @@ comment:
     ClientID:  #必须. GitHub Application Client ID.
     ClientSecret:  #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
-    appid:  # your leancloud application appid
-    appkey:  # your leancloud application appkey
+    appid: 4Jh4b6pzTvahbBtO1afP3lA1-MdYXbMMI # your leancloud application appid
+    appkey: aA5BPXcbuocJrPVk0LmwAsUm # your leancloud application appkey
     notify: false # mail notifier , https://github.com/xCss/Valine/wiki
     verify: false # Verification code
     placeholder: Just go go # comment box placeholder
@@ -158,9 +158,9 @@ pv:
   busuanzi:
     enable: false  # 不蒜子统计
   leancloud:
-    enable: false  # leancloud统计
-    app_id: # leancloud <AppID>
-    app_key: # leancloud <AppKey>
+    enable: true  # leancloud统计
+    app_id: 4Jh4b6pzTvahbBtO1afP3lA1-MdYXbMMI
+    app_key: aA5BPXcbuocJrPVk0LmwAsUm
         
 # wordcount
 postCount:
@@ -170,7 +170,7 @@ postCount:
 
 # Plugins
 plugins:
-  google_analytics: # enter the tracking ID for your Google Analytics
+  google_analytics: UA-136830501-2 # enter the tracking ID for your Google Analytics
   google_site_verification: # enter Google site verification code
   baidu_analytics: # enter Baidu Analytics hash key
   tencent_analytics: 
@@ -188,49 +188,34 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Jun Wang
   author_title: Fresh Software Engineer
-  author_description: 个人简介。
+  author_description: Web Development, Mobile Development
   location: Nagoya, Japan
   follow: https://github.com/benzenoil
   # Social Links
   social:
     links:
       github: https://github.com/benzenoil
-      # weibo: http://weibo.com/cofess
-      # twitter: https://twitter.com/iwebued
-      # facebook: /
-      # dribbble: /
-      # behance: https://www.behance.net/cofess
-      # rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
     Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    Python: ★★★☆☆
+    Java: ★★☆☆☆
+    C: ★★☆☆☆
+    JavaScript: ★☆☆☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/benzenoil
+    Blog: https://www.chuangzhidou.com
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 移动开发
+    - 数据分析
   # My Personal Works
   works:
-    name:
-      link: http://www.example.com
-      date: 2016
+    # name:
+    #   link: 
+    #   date: 
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    # cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
