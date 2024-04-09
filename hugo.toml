@@ -1,0 +1,6 @@
+baseURL = 'https://www.chuangzhidou.com/'
+languageCode = "en-us"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = true
+title = 'My New Hugo Site'
+theme = 'hugo-theme-stack'
