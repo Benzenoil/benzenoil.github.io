@@ -50,6 +50,10 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "yarn install"
+      - name: Check Environment Variables
+        run: |
+          echo "Client ID: $NEXT_PUBLIC_TINA_CLIENT_ID"
+          echo "Token: [REDACTED]"
       - name: Build TinaCMS
         env:
           NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.NEXT_PUBLIC_TINA_CLIENT_ID }}
