@@ -31,6 +31,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     env:
       HUGO_VERSION: 0.124.0
     steps:
@@ -60,7 +62,7 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: |
           echo "Client ID: $NEXT_PUBLIC_TINA_CLIENT_ID"
-          npx tinacms build      
+          npm run build      
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
