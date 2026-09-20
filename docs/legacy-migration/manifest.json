@@ -347,64 +347,6 @@
       }
     },
     {
-      "slug": "hello-world-personal",
-      "title": "Hello World",
-      "destination": "content/post/hello-world-personal.md",
-      "date": "2019-01-25T00:18:43+09:00",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "old_benzenoil.github.io",
-          "branch": "hexo",
-          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
-          "path": "2019/01/25/hello-world/index.html",
-          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/01/25/hello-world/index.html",
-          "sha256": "beb402538ee579dc51df0168b7abefdc155c4246e4f65d413ae51740c0700327"
-        },
-        {
-          "repository": "Myblog",
-          "branch": "setup",
-          "commit": "0d67eee51c7670b7f9018a9c5b6a7f239ead2a68",
-          "path": "source/_posts/hello-world.md",
-          "url": "https://github.com/Benzenoil/Myblog/blob/0d67eee51c7670b7f9018a9c5b6a7f239ead2a68/source/_posts/hello-world.md",
-          "sha256": "10f02f705983d2879cec8465f46dbe14d4b25ac1afc03dc54b65ed9315878008"
-        }
-      ],
-      "notes": [
-        "Myblog setup 分支的 hello-world.md 是个人欢迎语，与旧站 hexo 分支的 Hello World 相同；master 则是 Hexo 默认示例，二者分别保留。"
-      ],
-      "code_blocks": [],
-      "review": {
-        "score": 1,
-        "recommendation": "建议不发布",
-        "reason": "仅 Hello world 和欢迎语，建站纪念价值有限；本次仍迁入供你决定。"
-      }
-    },
-    {
-      "slug": "trusting-machines",
-      "title": "过度相信机器是对的？",
-      "destination": "content/post/trusting-machines.md",
-      "date": "2019-02-13T10:21:24+09:00",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "old_benzenoil.github.io",
-          "branch": "hexo",
-          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
-          "path": "2019/02/13/1/index.html",
-          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/02/13/1/index.html",
-          "sha256": "83ad6d2f0827e412ccbf3a47e714c085a63894e12804c5d1884d42812b84a7d2"
-        }
-      ],
-      "notes": [],
-      "code_blocks": [],
-      "review": {
-        "score": 1,
-        "recommendation": "建议不发布，可留题目",
-        "reason": "只有标题没有正文，可当未来写作选题。"
-      }
-    },
-    {
       "slug": "reading-list",
       "title": "'我的书单(施工中)'",
       "destination": "content/post/reading-list.md",
@@ -517,99 +459,6 @@
       }
     },
     {
-      "slug": "hello-world-hexo",
-      "title": "Hello World",
-      "destination": "content/post/hello-world-hexo.md",
-      "date": "2019-01-24T23:23:50+09:00",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "old2_benzenoil.github.io",
-          "branch": "gh-pages",
-          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
-          "path": "2020/04/26/hello-world/index.html",
-          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/hello-world/index.html",
-          "sha256": "2b16b8879270e10d616fc1983a63f981670f058fb236e5ceda1af80cbb50fe36"
-        },
-        {
-          "repository": "Myblog",
-          "branch": "master",
-          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
-          "path": "source/_posts/hello-world.md",
-          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/hello-world.md",
-          "sha256": "bb9a8fc908ebde2ee5edb646381def146013509a88a4c5bca1b233aa528a2dd8"
-        }
-      ],
-      "notes": [
-        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
-      ],
-      "code_blocks": [],
-      "review": {
-        "score": 0,
-        "recommendation": "建议不保留为文章",
-        "reason": "Hexo 默认英文入门示例，不是原创文章；本次仍迁入草稿，不替你删除。"
-      }
-    },
-    {
-      "slug": "markdown-syntax-test",
-      "title": "test pages",
-      "destination": "content/post/markdown-syntax-test.md",
-      "date": "2020-04-26T16:01:48.000Z",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "old2_benzenoil.github.io",
-          "branch": "gh-pages",
-          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
-          "path": "2020/04/26/test-pages/index.html",
-          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/test-pages/index.html",
-          "sha256": "8e7ae1bcee9b37eb4ebd884ad2601bf95a91604d44a53abfc06dd33a00f3e0be"
-        }
-      ],
-      "notes": [
-        "恢复文章链接：/projects/markdown/syntax.text → https://daringfireball.net/projects/markdown/syntax.text"
-      ],
-      "code_blocks": [
-        "return shell_exec(\"echo $input | $markdown_script\");",
-        "<code goes here>",
-        "This is a code block.",
-        "tell application \"Foo\"\n    beep\nend tell",
-        "<div class=\"footer\">\n    &copy; 2004 Foo Corporation\n</div>",
-        "tell application \"Foo\"\n    beep\nend tell"
-      ],
-      "review": {
-        "score": 1,
-        "recommendation": "建议不保留为文章",
-        "reason": "第三方 Markdown 语法测试文本，非原创；本次只作为迁移档案，若发布需另核对来源与署名。"
-      }
-    },
-    {
-      "slug": "this-is-a-draft",
-      "title": "This is a draft",
-      "destination": "content/post/this-is-a-draft.md",
-      "date": "2024-04-09T08:23:59+09:00",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "old2_benzenoil.github.io",
-          "branch": "source",
-          "commit": "04b96d27f0131d5a1b3805874d562797474a58ad",
-          "path": "source/_posts/This-is-a-draft.md",
-          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/04b96d27f0131d5a1b3805874d562797474a58ad/source/_posts/This-is-a-draft.md",
-          "sha256": "c48e72451ef48a70ff34cddc396dfbac2c29c0b12d3046c00c454eb6b31d123a"
-        }
-      ],
-      "notes": [
-        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
-      ],
-      "code_blocks": [],
-      "review": {
-        "score": 0,
-        "recommendation": "建议不保留为文章",
-        "reason": "正文只有 Draft，是测试占位。"
-      }
-    },
-    {
       "slug": "thinking-of-blog",
       "title": "我对博客的一些想法",
       "destination": "content/post/thinking-of-blog.md",
@@ -659,32 +508,6 @@
         "score": 3,
         "recommendation": "留私人草稿或补写",
         "reason": "只有行程开头，第二天句子尚未写完；作为旧旅行线索有价值，尚不是游记。"
-      }
-    },
-    {
-      "slug": "test-post",
-      "title": "测试文章",
-      "destination": "content/post/test-post.md",
-      "date": "2018-07-17T09:45:51+09:00",
-      "imported": true,
-      "sources": [
-        {
-          "repository": "Myblog",
-          "branch": "master",
-          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
-          "path": "source/_posts/测试文章.md",
-          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.md",
-          "sha256": "f2a5c2f91fa4960c07ea5a73d735d01a9b1513c2ac73d823079aa6b84052fe5e"
-        }
-      ],
-      "notes": [
-        "原文日期未注明时区，迁移采用 Asia/Tokyo (+09:00)。"
-      ],
-      "code_blocks": [],
-      "review": {
-        "score": 0,
-        "recommendation": "建议不保留为文章",
-        "reason": "正文只有一句测试文章，是测试占位。"
       }
     }
   ],
@@ -775,5 +598,201 @@
       "branch": "setup",
       "result": "setup 的 hello-world.md 与旧站 hexo 分支的个人欢迎语相同；已将原稿来源并入 hello-world-personal，而非 master 的 Hexo 默认示例。"
     }
+  ],
+  "removed_articles": [
+    {
+      "slug": "hello-world-personal",
+      "title": "Hello World",
+      "date": "2019-01-25T00:18:43+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/01/25/hello-world/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/01/25/hello-world/index.html",
+          "sha256": "beb402538ee579dc51df0168b7abefdc155c4246e4f65d413ae51740c0700327"
+        },
+        {
+          "repository": "Myblog",
+          "branch": "setup",
+          "commit": "0d67eee51c7670b7f9018a9c5b6a7f239ead2a68",
+          "path": "source/_posts/hello-world.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/0d67eee51c7670b7f9018a9c5b6a7f239ead2a68/source/_posts/hello-world.md",
+          "sha256": "10f02f705983d2879cec8465f46dbe14d4b25ac1afc03dc54b65ed9315878008"
+        }
+      ],
+      "notes": [
+        "Myblog setup 分支的 hello-world.md 是个人欢迎语，与旧站 hexo 分支的 Hello World 相同；master 则是 Hexo 默认示例，二者分别保留。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不发布",
+        "reason": "仅 Hello world 和欢迎语，建站纪念价值有限；本次仍迁入供你决定。"
+      },
+      "previous_destination": "content/post/hello-world-personal.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    },
+    {
+      "slug": "trusting-machines",
+      "title": "过度相信机器是对的？",
+      "date": "2019-02-13T10:21:24+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/02/13/1/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/02/13/1/index.html",
+          "sha256": "83ad6d2f0827e412ccbf3a47e714c085a63894e12804c5d1884d42812b84a7d2"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不发布，可留题目",
+        "reason": "只有标题没有正文，可当未来写作选题。"
+      },
+      "previous_destination": "content/post/trusting-machines.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    },
+    {
+      "slug": "hello-world-hexo",
+      "title": "Hello World",
+      "date": "2019-01-24T23:23:50+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "gh-pages",
+          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
+          "path": "2020/04/26/hello-world/index.html",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/hello-world/index.html",
+          "sha256": "2b16b8879270e10d616fc1983a63f981670f058fb236e5ceda1af80cbb50fe36"
+        },
+        {
+          "repository": "Myblog",
+          "branch": "master",
+          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
+          "path": "source/_posts/hello-world.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/hello-world.md",
+          "sha256": "bb9a8fc908ebde2ee5edb646381def146013509a88a4c5bca1b233aa528a2dd8"
+        }
+      ],
+      "notes": [
+        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "Hexo 默认英文入门示例，不是原创文章；本次仍迁入草稿，不替你删除。"
+      },
+      "previous_destination": "content/post/hello-world-hexo.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    },
+    {
+      "slug": "markdown-syntax-test",
+      "title": "test pages",
+      "date": "2020-04-26T16:01:48.000Z",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "gh-pages",
+          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
+          "path": "2020/04/26/test-pages/index.html",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/test-pages/index.html",
+          "sha256": "8e7ae1bcee9b37eb4ebd884ad2601bf95a91604d44a53abfc06dd33a00f3e0be"
+        }
+      ],
+      "notes": [
+        "恢复文章链接：/projects/markdown/syntax.text → https://daringfireball.net/projects/markdown/syntax.text"
+      ],
+      "code_blocks": [
+        "return shell_exec(\"echo $input | $markdown_script\");",
+        "<code goes here>",
+        "This is a code block.",
+        "tell application \"Foo\"\n    beep\nend tell",
+        "<div class=\"footer\">\n    &copy; 2004 Foo Corporation\n</div>",
+        "tell application \"Foo\"\n    beep\nend tell"
+      ],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不保留为文章",
+        "reason": "第三方 Markdown 语法测试文本，非原创；本次只作为迁移档案，若发布需另核对来源与署名。"
+      },
+      "previous_destination": "content/post/markdown-syntax-test.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    },
+    {
+      "slug": "this-is-a-draft",
+      "title": "This is a draft",
+      "date": "2024-04-09T08:23:59+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "source",
+          "commit": "04b96d27f0131d5a1b3805874d562797474a58ad",
+          "path": "source/_posts/This-is-a-draft.md",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/04b96d27f0131d5a1b3805874d562797474a58ad/source/_posts/This-is-a-draft.md",
+          "sha256": "c48e72451ef48a70ff34cddc396dfbac2c29c0b12d3046c00c454eb6b31d123a"
+        }
+      ],
+      "notes": [
+        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "正文只有 Draft，是测试占位。"
+      },
+      "previous_destination": "content/post/this-is-a-draft.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    },
+    {
+      "slug": "test-post",
+      "title": "测试文章",
+      "date": "2018-07-17T09:45:51+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "Myblog",
+          "branch": "master",
+          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
+          "path": "source/_posts/测试文章.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.md",
+          "sha256": "f2a5c2f91fa4960c07ea5a73d735d01a9b1513c2ac73d823079aa6b84052fe5e"
+        }
+      ],
+      "notes": [
+        "原文日期未注明时区，迁移采用 Asia/Tokyo (+09:00)。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "正文只有一句测试文章，是测试占位。"
+      },
+      "previous_destination": "content/post/test-post.md",
+      "status": "removed",
+      "removal_reason": "按作者要求清理测试、模板欢迎页和空白占位文章；源记录与 Git 历史保留。"
+    }
+  ],
+  "removed_existing_content": [
+    "content/post/Test-Drift.md",
+    "content/categories/Test/_index.md",
+    "content/categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
   ]
 }
