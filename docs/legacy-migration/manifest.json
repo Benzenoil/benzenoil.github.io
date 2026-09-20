@@ -1,0 +1,779 @@
+{
+  "checked_at": "2026-09-21",
+  "source_entries": 30,
+  "articles": [
+    {
+      "slug": "markdown-notes",
+      "title": "Markdown语法备忘录",
+      "destination": "content/post/markdown-notes.md",
+      "date": "2019-03-23T20:14:27+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/03/23/how-to-use-markdown/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/03/23/how-to-use-markdown/index.html",
+          "sha256": "13d878ba7d6ac783ff0099631c62c73bfd37c0bbea80d2434dcc25757dd302ce"
+        },
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/02/08/how-to-use-markdown/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/02/08/how-to-use-markdown/index.html",
+          "sha256": "0f644b2f950afd8d22bc38cc215caf2e9b4b13bdff61cc8ac4225f9fe300a6d7"
+        },
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/03/23/how-to-use-markdown/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/03/23/how-to-use-markdown/index.html",
+          "sha256": "dbb8fe6916799e7611bd7591c6d24a66380439136cc840cc70d41cb1edc9d454"
+        }
+      ],
+      "notes": [
+        "example.com 图片是语法示例，改为代码展示，避免请求不存在的图片。"
+      ],
+      "code_blocks": [
+        "- 列表1\n- 列表2\n- 列表3",
+        "1. 有序列表1\n2. 有序列表2\n3. 有序列表3",
+        "1. [show text](example.com)\n2. [show text 2](example.com)",
+        "![](example.com/test.jpg)\n![](example.com/test2.jpg)",
+        "print(\"multi lines\")\nprint(\"Hello world!\")"
+      ],
+      "review": {
+        "score": 6,
+        "recommendation": "保留为备忘，发布可选",
+        "reason": "语法示例基本完整，但可替代性高；适合笔记栏目，示例图片不是丢失照片。"
+      }
+    },
+    {
+      "slug": "fish-fragrant-eggplant",
+      "title": "[料理系列]鱼香茄子",
+      "destination": "content/post/fish-fragrant-eggplant.md",
+      "date": "2019-03-28T21:53:42+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/03/28/鱼香茄子/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/03/28/%E9%B1%BC%E9%A6%99%E8%8C%84%E5%AD%90/index.html",
+          "sha256": "715353e1babdc1307b3dca2027728f5d3a9fc7e6158b1e99d928ffe1490cd1fb"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "有汁水比例和亲手操作的体感；适合家庭料理记录。"
+      }
+    },
+    {
+      "slug": "cucumber-wood-ear-eggs",
+      "title": "[料理系列]黄瓜木耳炒蛋",
+      "destination": "content/post/cucumber-wood-ear-eggs.md",
+      "date": "2019-04-02T23:39:50+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/02/cookbook-1/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/02/cookbook-1/index.html",
+          "sha256": "65ab7bba8af70d9e29a85c6d1d8c9741ab6a92005968b5e41027f1c7989ce4ea"
+        },
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/21/黄瓜木耳炒蛋/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/21/%E9%BB%84%E7%93%9C%E6%9C%A8%E8%80%B3%E7%82%92%E8%9B%8B/index.html",
+          "sha256": "df69760fcc1b82db6e65c9ec67babcb94044af2018a246c01ca663e66cdf062c"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "做法简洁，有口味变化和木耳爆油的实作反馈；重复版本已合并。"
+      }
+    },
+    {
+      "slug": "django-deploy",
+      "title": "在Ubuntu上通过Nginx, uWSGI部署Django项目",
+      "destination": "content/post/django-deploy.md",
+      "date": "2019-04-02T23:39:50+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/02/django-deploy/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/02/django-deploy/index.html",
+          "sha256": "fd8397eeebbe7e8ebacf83b8e3c57f2259b8c77dcd61c0515fc94b2b02a9e2d1"
+        },
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/04/02/django-deploy/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/04/02/django-deploy/index.html",
+          "sha256": "4fbb5edecc12ae147f3c816df58ab53e3985d53045dc33ac57b715ecb9cc3db3"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [
+        "$ apt-get update\n$ apt-get upgrade",
+        "$ apt-get install build-essential libtool\n$ apt-get install libpcre3 libpcre3-dev zlib1g-dev openssl",
+        "$ apt-get install python3.7\n$ apt-get install python3-pip",
+        "$ mkdir -p /www/project/env\n$ mkdir -p /www/project/firstpage",
+        "# virtualenv -p [python路径] [项目路径]\n$ virtualenv -p /usr/bin/python3 /www/project/env/firstpage",
+        "$ source /www/project/env/firstpage/bin/activate",
+        "$ pip install django\n$ cd /www/project/\n$ django-admin startproject firstpage\n$ cd firstpage",
+        "$ python manage.py migrate\n$ python manage.py runserver",
+        "Django version 2.2, using settings 'firstpage.settings'\nStarting development server at http://127.0.0.1:8000/\nQuit the server with CONTROL-C.",
+        "# pip install uwsgi",
+        "# test.py\ndef application(env, start_response):\n    start_response('200 OK', [('Content-Type','text/html')])\n    return [b\"Hello World\"]",
+        "$ uwsgi --http :8000 --wsgi-file test.py",
+        "thw web client < -- > uWSGI < -- > Python App",
+        "$ uwsgi --http :8000 --wsgi-file /www/project/firstpage/firstpage/wsgi.py",
+        "DisallowedHost at /\nInvalid HTTP_HOST header: ..... You may need to add \"你的域名\" to ALLOWED_HOSTS",
+        "$ cd firstpage\n$ vi settings.py",
+        "ALLOWED_HOSTS = ['XXX.XXX.XXX.XXX']",
+        "$ uwsgi --http :8000 --wsgi-file /www/project/firstpage/firstpage/wsgi.py",
+        "$ mkdir -p /etc/uwsgi/sites\n$ vi /etc/uwsgi/sites/firstpage.ini",
+        "[uwsgi]\nchdir = /www/project/firstpage  # 项目目录\nhome = /www/project/env/firstpage  # 虚拟环境目录\nwsgi-file = %(chdir)/firstpage/wsgi.py  # wsgi文件位置\n\nmaster = true\nprocesses = 4\n\nsocket = /run/uwsgi/firstpage.sock  # sock存储位置\nchmod-socket = 666\nvacuum = true",
+        "$ vi /etc/systemd/system/uwsgi.service",
+        "[Unit]\nDescription=uWSGI Emperor service\n\n[Service]\nExecStartPre=/bin/bash -c 'mkdir -p /run/uwsgi; chown root:www-data /run/uwsgi'\nExecStart=/usr/local/bin/uwsgi --emperor /etc/uwsgi/sites\nRestart=always\nKillSignal=SIGQUIT\nType=notify\nNotifyAccess=all\n\n[Install]\nWantedBy=multi-user.target",
+        "$ apt-get install nginx\n$ /etc/init.d/nginx start    # start nginx",
+        "the web client < -- > the web server",
+        "$ vi /etc/nginx/sites-available/firstpage",
+        "# firstpage\n\nserver {\n        listen 8000;\n        server_name xxx.xxx.xxx.xxx; # 你的域名\n\n        location = /favicon.ico { access_log off; log_not_found off; }\n        location /static/ {\n                alias /www/project/firstpage/static;\n        }\n\n        location / {\n                include /etc/nginx/uwsgi_params;\n                uwsgi_pass      unix:/run/uwsgi/firstpage.sock;\n        }\n}",
+        "$ ln -s /etc/nginx/sites-available/firstpage /etc/nginx/sites-enabled\n# 若需要覆盖文件，可使用\n$ ln -s -f ...",
+        "$ nginx -t",
+        "$ systemctl restart nginx\n$ systemctl start uwsgi",
+        "$ deactivate",
+        "$ pip3 install django\n$ pip3 install uwsgi",
+        "$ systemctl enable nginx\n$ systemctl enable uwsgi"
+      ],
+      "review": {
+        "score": 7,
+        "recommendation": "作为历史学习记录保留",
+        "reason": "有完整排错过程，值得保留；文中 Ubuntu 18.04、Django 2.2、全局安装与 root 操作不能直接当今天的部署指南，发布前注明历史版本。"
+      }
+    },
+    {
+      "slug": "sweet-sour-ribs",
+      "title": "[料理系列]糖醋排骨",
+      "destination": "content/post/sweet-sour-ribs.md",
+      "date": "2019-04-05T22:49:01+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/05/糖醋排骨/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/05/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8/index.html",
+          "sha256": "e90fdfe61a9f28b69642f4f9ee267b6e3a8f5da4c73f90bd07dd0061e71adea6"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 9,
+        "recommendation": "保留",
+        "reason": "配比、步骤、问答较完整，保留了参考来源与个人反馈。"
+      }
+    },
+    {
+      "slug": "kung-pao-king-oyster",
+      "title": "[料理系列]宫保杏鲍菇",
+      "destination": "content/post/kung-pao-king-oyster.md",
+      "date": "2019-04-20T23:26:41+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/20/宫保杏鲍菇/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/20/%E5%AE%AB%E4%BF%9D%E6%9D%8F%E9%B2%8D%E8%8F%87/index.html",
+          "sha256": "b5b5f91fa453770042df6d4f532959596dea2d041bae3a370a3638a026b0fa49"
+        }
+      ],
+      "notes": [
+        "源 HTML 内食谱正文重复两遍，确认文字相同后保留一遍。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 7,
+        "recommendation": "保留，补充细节",
+        "reason": "步骤完整但调味比例较粗；原文重复段落已合并，可补重量。"
+      }
+    },
+    {
+      "slug": "ants-climbing-tree",
+      "title": "[料理系列]蚂蚁上树",
+      "destination": "content/post/ants-climbing-tree.md",
+      "date": "2019-04-21T23:25:28+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/21/蚂蚁上树/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/21/%E8%9A%82%E8%9A%81%E4%B8%8A%E6%A0%91/index.html",
+          "sha256": "f79b81862104c81e8426f4f94ecc4cfd77fd87560c1cb839ed81281f00cdbb18"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "粉丝状态判断具体，坦诚记录个人版本；可补调料定量。"
+      }
+    },
+    {
+      "slug": "ribs-with-potatoes",
+      "title": "[料理系列]排骨炖土豆",
+      "destination": "content/post/ribs-with-potatoes.md",
+      "date": "2019-04-27T12:23:42+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/04/27/排骨炖土豆/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/04/27/%E6%8E%92%E9%AA%A8%E7%82%96%E5%9C%9F%E8%B1%86/index.html",
+          "sha256": "f487a9247df04e0bf6e2f4003f57f434066020a6aa2193ff20a7a0b2709278a7"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "过程清楚，有香料包、投料时机等实际经验；可补调味用量。"
+      }
+    },
+    {
+      "slug": "mushroom-vegetable-buns",
+      "title": "[料理系列]香菇菜包",
+      "destination": "content/post/mushroom-vegetable-buns.md",
+      "date": "2019-05-05T12:04:56+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2019/05/05/香菇菜包/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2019/05/05/%E9%A6%99%E8%8F%87%E8%8F%9C%E5%8C%85/index.html",
+          "sha256": "1431870e792480f0f22cd79ae09d5aff4ffd96d0c94331cecc63e913c28609f1"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 9,
+        "recommendation": "保留",
+        "reason": "配比、操作、冷冻保存和失败复盘齐全，有自己的实作细节。"
+      }
+    },
+    {
+      "slug": "year-2019-reflection",
+      "title": "2019走了，2020来了",
+      "destination": "content/post/year-2019-reflection.md",
+      "date": "2020-01-05T23:36:41+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "master",
+          "commit": "c8650c6d6bee76e054490fb6bae699ebdff5fb52",
+          "path": "2020/01/05/2019总结/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/c8650c6d6bee76e054490fb6bae699ebdff5fb52/2020/01/05/2019%E6%80%BB%E7%BB%93/index.html",
+          "sha256": "5b205555a282cb4db30c155e1b0c8bad434b5775be7f65217b08621ff4796f69"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 9,
+        "recommendation": "保留",
+        "reason": "不可替代的年度心境与人生阶段记录；短不等于没有价值，保持原日期即可。"
+      }
+    },
+    {
+      "slug": "aliyun-ecs-root-password",
+      "title": "阿里云ECS-root密码去哪儿了？",
+      "destination": "content/post/aliyun-ecs-root-password.md",
+      "date": "2018-11-12T23:22:26+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2018/11/12/e9-98-bf-e9-87-8c-e4-ba-91ecs-root-e5-af-86-e7-a0-81-e5-8e-bb-e5-93-aa-e5-84-bf-e4-ba-86-ef-bc-9f/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2018/11/12/e9-98-bf-e9-87-8c-e4-ba-91ecs-root-e5-af-86-e7-a0-81-e5-8e-bb-e5-93-aa-e5-84-bf-e4-ba-86-ef-bc-9f/index.html",
+          "sha256": "ebf7a112843250c6dbcdccf5ce93bd9444c0e43d46a5ed54729cf632c3e70c2e"
+        }
+      ],
+      "notes": [
+        "旧图片未能恢复，保留原地址文字链接：http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112234517.jpg",
+        "旧图片未能恢复，保留原地址文字链接：http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112234747-300x248.jpg",
+        "旧图片未能恢复，保留原地址文字链接：http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112235409-261x300.jpg",
+        "清理遗留 WordPress caption 包装，保留图片说明文字。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 5,
+        "recommendation": "仅历史存档，发布前修订",
+        "reason": "有一次真实排错经历，但依赖旧控制台；三张截图未恢复，且 WordPress caption 残留已整理，不能视为现行操作教程。"
+      }
+    },
+    {
+      "slug": "hello-world-personal",
+      "title": "Hello World",
+      "destination": "content/post/hello-world-personal.md",
+      "date": "2019-01-25T00:18:43+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/01/25/hello-world/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/01/25/hello-world/index.html",
+          "sha256": "beb402538ee579dc51df0168b7abefdc155c4246e4f65d413ae51740c0700327"
+        },
+        {
+          "repository": "Myblog",
+          "branch": "setup",
+          "commit": "0d67eee51c7670b7f9018a9c5b6a7f239ead2a68",
+          "path": "source/_posts/hello-world.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/0d67eee51c7670b7f9018a9c5b6a7f239ead2a68/source/_posts/hello-world.md",
+          "sha256": "10f02f705983d2879cec8465f46dbe14d4b25ac1afc03dc54b65ed9315878008"
+        }
+      ],
+      "notes": [
+        "Myblog setup 分支的 hello-world.md 是个人欢迎语，与旧站 hexo 分支的 Hello World 相同；master 则是 Hexo 默认示例，二者分别保留。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不发布",
+        "reason": "仅 Hello world 和欢迎语，建站纪念价值有限；本次仍迁入供你决定。"
+      }
+    },
+    {
+      "slug": "trusting-machines",
+      "title": "过度相信机器是对的？",
+      "destination": "content/post/trusting-machines.md",
+      "date": "2019-02-13T10:21:24+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/02/13/1/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/02/13/1/index.html",
+          "sha256": "83ad6d2f0827e412ccbf3a47e714c085a63894e12804c5d1884d42812b84a7d2"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不发布，可留题目",
+        "reason": "只有标题没有正文，可当未来写作选题。"
+      }
+    },
+    {
+      "slug": "reading-list",
+      "title": "'我的书单(施工中)'",
+      "destination": "content/post/reading-list.md",
+      "date": "2019-02-13T00:18:44+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/02/13/My-book-list/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/02/13/My-book-list/index.html",
+          "sha256": "fbc45e9ba83a217e925e354553c6a937aadd9024c2c6d28beeda3479615638cd"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 5,
+        "recommendation": "留草稿，补书评后发布",
+        "reason": "有清楚的记录动机和四本书名，但还没有设想中的评价；补一两句个人收获即可提升价值。"
+      }
+    },
+    {
+      "slug": "arts-week0",
+      "title": "ARTS-第0周总结",
+      "destination": "content/post/arts-week0.md",
+      "date": "2019-03-24T21:51:21+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/03/24/arts-week0/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/03/24/arts-week0/index.html",
+          "sha256": "315ab3f167abf45f691543dcf5b66e38b706623e870f61b8df180243f4a3c957"
+        }
+      ],
+      "notes": [
+        "恢复文章链接：https://tech.chuangzhidou.com/2019/03/25/how-to-use-markdown/ → /p/markdown-notes/"
+      ],
+      "code_blocks": [
+        "def reverse(self, x):\n    \"\"\"\n    :type x: int\n    :rtype: int\n    \"\"\"        \n    notNegative = True\n    target = []\n\n    for c in str(x):\n        if c == '-':\n            notNegative = False\n            continue\n        target.append(c)\n    target.reverse()\n    answer = ''.join(target)\n    if notNegative:\n        answer = int(answer)\n    else:\n        answer = int(answer) * -1\n    \n    limitation = [-1 * pow(2,31), pow(2,31)-1]\n    if answer <= limitation[0] or answer >= limitation[1]:\n        return 0\n    else:\n        return answer"
+      ],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "算法思路、Transformer 阅读与工具练习结合，有自己的解释；原代码边界判断可另写勘误，不在迁移中悄悄修改。"
+      }
+    },
+    {
+      "slug": "arts-week1",
+      "title": "ARTS-第1周总结",
+      "destination": "content/post/arts-week1.md",
+      "date": "2019-04-02T21:36:20+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/04/02/arts-week1/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/04/02/arts-week1/index.html",
+          "sha256": "7b70346fc9bd8e0d7a8097e16aa5d08ce44215cf7707bf135a4425cd8acda5e0"
+        },
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/04/02/arts-week3/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/04/02/arts-week3/index.html",
+          "sha256": "fc4ebff55bb9697d627ecb37c4ff2b5a65751af6fb3f20dda3e7e6d7ffe39dde"
+        }
+      ],
+      "notes": [],
+      "code_blocks": [],
+      "review": {
+        "score": 7,
+        "recommendation": "保留",
+        "reason": "学习清单与认证/部署资料能反映当时轨迹；点评较短，适合周记而非教程。"
+      }
+    },
+    {
+      "slug": "arts-week2",
+      "title": "ARTS-第2周总结",
+      "destination": "content/post/arts-week2.md",
+      "date": "2019-04-02T21:36:20+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old_benzenoil.github.io",
+          "branch": "hexo",
+          "commit": "7c8e5c8943fbc126e00190bb3258e1648912c476",
+          "path": "2019/04/02/arts-week2/index.html",
+          "url": "https://github.com/Benzenoil/old_benzenoil.github.io/blob/7c8e5c8943fbc126e00190bb3258e1648912c476/2019/04/02/arts-week2/index.html",
+          "sha256": "348f4bcb92065099e2997cd69bbdf7e69fb2b4be1021ef4cfed30f88249dfb15"
+        }
+      ],
+      "notes": [
+        "恢复文章链接：https://tech.chuangzhidou.com/2019/04/02/django-deploy/ → /p/django-deploy/"
+      ],
+      "code_blocks": [
+        "class Solution(object):\n    def linklistToNum(self, l):\n        times = 1\n        result = 0\n\n        while l:\n            result += int(l.val) * times\n            times *= 10\n            l = l.next\n        return result\n\n    def NumTolinklist(self, num):\n        target = []\n\n        for c in str(num):\n            target.append(c)\n\n        head = ListNode(None)\n        point = head\n        while target != []:\n            tmp = target.pop()\n            point.next = ListNode(tmp)\n            point = point.next\n\n        return head.next\n\n    def addTwoNumbers(self, l1, l2):\n        \"\"\"\n        :type l1: ListNode\n        :type l2: ListNode\n        :rtype: ListNode\n        \"\"\"\n        num1 = self.linklistToNum(l1)\n        num2 = self.linklistToNum(l2)\n        answer = num1 + num2\n\n        return self.NumTolinklist(answer)"
+      ],
+      "review": {
+        "score": 8,
+        "recommendation": "保留",
+        "reason": "包含解法、性能观察、论文和 BERT 阅读线索，个人学习密度较高。"
+      }
+    },
+    {
+      "slug": "hello-world-hexo",
+      "title": "Hello World",
+      "destination": "content/post/hello-world-hexo.md",
+      "date": "2019-01-24T23:23:50+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "gh-pages",
+          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
+          "path": "2020/04/26/hello-world/index.html",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/hello-world/index.html",
+          "sha256": "2b16b8879270e10d616fc1983a63f981670f058fb236e5ceda1af80cbb50fe36"
+        },
+        {
+          "repository": "Myblog",
+          "branch": "master",
+          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
+          "path": "source/_posts/hello-world.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/hello-world.md",
+          "sha256": "bb9a8fc908ebde2ee5edb646381def146013509a88a4c5bca1b233aa528a2dd8"
+        }
+      ],
+      "notes": [
+        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "Hexo 默认英文入门示例，不是原创文章；本次仍迁入草稿，不替你删除。"
+      }
+    },
+    {
+      "slug": "markdown-syntax-test",
+      "title": "test pages",
+      "destination": "content/post/markdown-syntax-test.md",
+      "date": "2020-04-26T16:01:48.000Z",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "gh-pages",
+          "commit": "f475e201a1bcf9a0f3957b0c7e714218946cd8bd",
+          "path": "2020/04/26/test-pages/index.html",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/f475e201a1bcf9a0f3957b0c7e714218946cd8bd/2020/04/26/test-pages/index.html",
+          "sha256": "8e7ae1bcee9b37eb4ebd884ad2601bf95a91604d44a53abfc06dd33a00f3e0be"
+        }
+      ],
+      "notes": [
+        "恢复文章链接：/projects/markdown/syntax.text → https://daringfireball.net/projects/markdown/syntax.text"
+      ],
+      "code_blocks": [
+        "return shell_exec(\"echo $input | $markdown_script\");",
+        "<code goes here>",
+        "This is a code block.",
+        "tell application \"Foo\"\n    beep\nend tell",
+        "<div class=\"footer\">\n    &copy; 2004 Foo Corporation\n</div>",
+        "tell application \"Foo\"\n    beep\nend tell"
+      ],
+      "review": {
+        "score": 1,
+        "recommendation": "建议不保留为文章",
+        "reason": "第三方 Markdown 语法测试文本，非原创；本次只作为迁移档案，若发布需另核对来源与署名。"
+      }
+    },
+    {
+      "slug": "this-is-a-draft",
+      "title": "This is a draft",
+      "destination": "content/post/this-is-a-draft.md",
+      "date": "2024-04-09T08:23:59+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "source",
+          "commit": "04b96d27f0131d5a1b3805874d562797474a58ad",
+          "path": "source/_posts/This-is-a-draft.md",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/04b96d27f0131d5a1b3805874d562797474a58ad/source/_posts/This-is-a-draft.md",
+          "sha256": "c48e72451ef48a70ff34cddc396dfbac2c29c0b12d3046c00c454eb6b31d123a"
+        }
+      ],
+      "notes": [
+        "原文无日期；排序日期采用该文件首次加入 Git 的作者时间，不视为实际写作日期。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "正文只有 Draft，是测试占位。"
+      }
+    },
+    {
+      "slug": "thinking-of-blog",
+      "title": "我对博客的一些想法",
+      "destination": "content/post/thinking-of-blog.md",
+      "date": "2020-05-01T20:02:52.000Z",
+      "imported": false,
+      "sources": [
+        {
+          "repository": "old2_benzenoil.github.io",
+          "branch": "source",
+          "commit": "04b96d27f0131d5a1b3805874d562797474a58ad",
+          "path": "source/_posts/我对博客的一些想法.md",
+          "url": "https://github.com/Benzenoil/old2_benzenoil.github.io/blob/04b96d27f0131d5a1b3805874d562797474a58ad/source/_posts/%E6%88%91%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95.md",
+          "sha256": "318c2062179e153ed2b3cc2f60e8a529b74c83039c6d93c2683f9fd10f965486"
+        }
+      ],
+      "notes": [
+        "当前主站已含相同正文，保留既有文件和草稿状态，不重复导入。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 9,
+        "recommendation": "保留",
+        "reason": "动机、表达习惯与博客边界写得具体，是个人博客很好的开篇；部署计划可加一段今昔对照。"
+      }
+    },
+    {
+      "slug": "hokkaido-2018-plan",
+      "title": "2018-07 北海道之行",
+      "destination": "content/post/hokkaido-2018-plan.md",
+      "date": "2018-07-19T09:55:42+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "Myblog",
+          "branch": "master",
+          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
+          "path": "source/_posts/2018-07-北海道之行.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/2018-07-%E5%8C%97%E6%B5%B7%E9%81%93%E4%B9%8B%E8%A1%8C.md",
+          "sha256": "ea39e6bf458d54c32832f53a715f202183044edaa3c037f219e573cfd9ddc204"
+        }
+      ],
+      "notes": [
+        "原文日期未注明时区，迁移采用 Asia/Tokyo (+09:00)。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 3,
+        "recommendation": "留私人草稿或补写",
+        "reason": "只有行程开头，第二天句子尚未写完；作为旧旅行线索有价值，尚不是游记。"
+      }
+    },
+    {
+      "slug": "test-post",
+      "title": "测试文章",
+      "destination": "content/post/test-post.md",
+      "date": "2018-07-17T09:45:51+09:00",
+      "imported": true,
+      "sources": [
+        {
+          "repository": "Myblog",
+          "branch": "master",
+          "commit": "69b986caba8942117b8ad3410bad83798e91a2f0",
+          "path": "source/_posts/测试文章.md",
+          "url": "https://github.com/Benzenoil/Myblog/blob/69b986caba8942117b8ad3410bad83798e91a2f0/source/_posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.md",
+          "sha256": "f2a5c2f91fa4960c07ea5a73d735d01a9b1513c2ac73d823079aa6b84052fe5e"
+        }
+      ],
+      "notes": [
+        "原文日期未注明时区，迁移采用 Asia/Tokyo (+09:00)。"
+      ],
+      "code_blocks": [],
+      "review": {
+        "score": 0,
+        "recommendation": "建议不保留为文章",
+        "reason": "正文只有一句测试文章，是测试占位。"
+      }
+    }
+  ],
+  "media": [
+    {
+      "url": "example.com/test.jpg",
+      "status": "example-placeholder"
+    },
+    {
+      "url": "example.com/test2.jpg",
+      "status": "example-placeholder"
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/yuxiangqiezi.jpg",
+      "status": "copied",
+      "local": "/images/legacy/acd97c90ec-yuxiangqiezi.jpg",
+      "sha256": "71426dd00ab5905a7b471d376ba10f670530d1fb332917929b0d501b4670f12e",
+      "bytes": 120364
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/easyfood/huangguamuerchaodan.jpg",
+      "status": "copied",
+      "local": "/images/legacy/4b66be94d7-huangguamuerchaodan.jpg",
+      "sha256": "aa15c17c9ac7104c5eb68da244c22611f8da816dd197685cc67551b1c80ce9f6",
+      "bytes": 406207
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/tech-czd/successfully-mark.jpg",
+      "status": "copied",
+      "local": "/images/legacy/af26ae9f1b-successfully-mark.jpg",
+      "sha256": "33862978dd846cb9d8343e89138d709486965dc82e3d60e10e027e64faba20fe",
+      "bytes": 21573
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/tangcupaigu.jpg",
+      "status": "copied",
+      "local": "/images/legacy/588f38ecd9-tangcupaigu.jpg",
+      "sha256": "1dfbdcf4c8e20bfb398917e1ed68ec66cf746fa0a596476703162938a0ec6ec0",
+      "bytes": 268222
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/easyfood/gongbaoxingbaogu.jpg",
+      "status": "copied",
+      "local": "/images/legacy/abcdf02eea-gongbaoxingbaogu.jpg",
+      "sha256": "0058dfa22fbfcabe4d03a6f466411f42d56a9793f88cac6d0107f26a4223e693",
+      "bytes": 424801
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/easyfood/mayishangshu.jpg",
+      "status": "copied",
+      "local": "/images/legacy/0d034ce694-mayishangshu.jpg",
+      "sha256": "324a095ec4acbc50aa47c30b52e053d958eead1a561896b638969789c097a428",
+      "bytes": 484750
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/easyfood/tudoudunpaigu.jpg",
+      "status": "copied",
+      "local": "/images/legacy/bd40875b55-tudoudunpaigu.jpg",
+      "sha256": "5b2ee5bd617e528363dbe1436402b9d3ba4eb2e451a2879a5c9cfce25e8d2746",
+      "bytes": 494717
+    },
+    {
+      "url": "https://images.chuangzhidou.com/blog-photo/czd/easyfood/xianggucaibao.jpg",
+      "status": "copied",
+      "local": "/images/legacy/8381601b64-xianggucaibao.jpg",
+      "sha256": "e81b2df80cd498042ca4afe74251beab2d40193e34e048360258a03050c89ac4",
+      "bytes": 444581
+    },
+    {
+      "url": "http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112234517.jpg",
+      "status": "unavailable",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112234747-300x248.jpg",
+      "status": "unavailable",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://13.114.93.104/wp-content/uploads/2018/11/微信截图_20181112235409-261x300.jpg",
+      "status": "unavailable",
+      "error": "<urlopen error timed out>"
+    }
+  ],
+  "additional_branch_checks": [
+    {
+      "repository": "Myblog",
+      "branch": "setup",
+      "result": "setup 的 hello-world.md 与旧站 hexo 分支的个人欢迎语相同；已将原稿来源并入 hello-world-personal，而非 master 的 Hexo 默认示例。"
+    }
+  ]
+}
